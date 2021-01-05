@@ -1,0 +1,6 @@
+@import '@tailwind-test/ui/common.css';
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
